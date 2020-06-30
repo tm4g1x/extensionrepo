@@ -1,0 +1,10 @@
+{
+  "name": "newextension",
+  "provider": "SAP SE",
+  "description": "my new extension",
+  "version": "1.0.0",
+  "icon": "https://w7.pngwing.com/pngs/260/728/png-transparent-strong-sea-waves-wind-wave-sea-ocean-blue-waves-blue-ocean-coastal-and-oceanic-landforms.png",
+  "dockerRegistry": "docker.io/saptk",
+  "helmChartVersion": "1.0.0",
+  "parameters": []
+}
